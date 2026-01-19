@@ -51,7 +51,7 @@ is use a `return` statement like:
 return x > 3
 ```
 
-## What To Hand In
+## What to hand in
 
 Paste your answers (the entire contents of the code box on CodingBat) to the 13
 assigned questions (`double_char`, `count_hi`, ..., `xyz_there`, `count_events`,
