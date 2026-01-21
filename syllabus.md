@@ -108,13 +108,13 @@ Upon completion of this course, students will be able to:
 
 ## Office hours
 
-I hope you will visit me throughout the term, so I can learn more about your
-interests and answer your questions. In fact, I would like to encourage you to
-come see me at least once during the course of the semester. As a reward, you
-will earn half the class participation credits, if you do. No appointment is
-necessary to see me during office hours; simply stop by Olin 226B or 309. If you
-would like to make an appointment outside of my office hours, please email me at
-alaink@lclark.edu.
+I hope you will drop by office hours throughout the term, so I can learn more
+about your interests and answer your questions. In fact, I would like to
+encourage you to come see me at least once during the course of the semester. As
+a reward, you will earn half the class participation credits, if you do so. No
+appointment is necessary to see me during office hours; simply stop by Olin 226B
+or 309. If you would like to make an appointment outside of my office hours,
+please email me at alaink@lclark.edu.
 
 ## Requirements
 
