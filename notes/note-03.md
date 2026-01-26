@@ -1,4 +1,4 @@
-# CS2 Spring 2025 Note 03
+# Note 03
 
 ## Quiz
 
