@@ -36,11 +36,11 @@ Jorge, the lab administrator).
 
 Professor: Alain Kägi  
 Email: alaink@lclark.edu  
-Office hours: TBA
+Office hours: Thu 10-11am & Fri 3-4pm, Olin 226B
 
 TA: Silas King  
 Email: silasking@lclark.edu  
-Office hours: TBA
+Office hours: Mon & Wed 3-4pm, Olin 309
 
 ## Course description
 
