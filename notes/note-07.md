@@ -2,7 +2,7 @@
 
 ## Puzzle
 
-If `1 % 10` returns `7`, what does `-1 % 10` return?
+If `1 % 10` returns `1`, what does `-1 % 10` return?
 
 ## Omitting needless code
 
