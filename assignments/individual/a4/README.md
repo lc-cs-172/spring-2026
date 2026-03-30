@@ -49,11 +49,6 @@ to pass each one.
 There are no loops or recursion required to complete these classes; if you're
 using those, you're working too hard.
 
-## Extra credit
-
-Refactor `body.py` to use your `Vector` class. If you do, please upload your
-refactored version in addition to `vector.py`.
-
 ## What to hand in
 
 Upload your version of `vector.py` (it's a text file, no need to convert it to
