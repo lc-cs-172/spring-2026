@@ -19,3 +19,13 @@ def test_polymorphic():
     s = LinkedStack()
     s.push('a')
     assert s.pop() == 'a'
+
+def test_iterable():
+    s = LinkedStack()
+    s.push(1)
+    s.push(2)
+    s.push(3)
+    sum = 0
+    for item in s:
+        sum += item
+    assert sum == 6
