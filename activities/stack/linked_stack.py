@@ -1,5 +1,7 @@
 """"Implement a stack data collection that supports the `is_empty`, `push` and
 `pop` methods.
+
+This collection is iterable.
 """
 
 class LinkedStack:
@@ -11,6 +13,12 @@ class LinkedStack:
 
     def __init__(self):
         """Initialize an empty stack."""
+        pass
+
+    def __iter__(self):
+        pass
+
+    def __next__(self):
         pass
 
     def push(self, item):
